@@ -1,5 +1,6 @@
-$(function(){
-  $("div").click(function(){
-    console.log('1');
-  });
+$(function() {
+    $("div").click(function() {
+        console.log('1');
+    });
 })
+first
